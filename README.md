@@ -31,10 +31,7 @@ It helps users explore data, identify trends, and understand key performance ind
 
 ## 📊 Dashboard Preview
 
-> 📷 Dashboard preview of my Starbucks Power BI project.
-
-![Starbucks Dashboard Preview](dashboard-preview.png)
-
+> <img width="959" height="540" alt="image" src="https://github.com/user-attachments/assets/b4a6a4d4-8e5e-4f14-b7cb-c361704b3cb2" />
 ---
 
 ## 📈 Dashboard Features
